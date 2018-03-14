@@ -2,6 +2,10 @@ class Dog
   def inititalize
   end
 
+  def age
+    2+1
+  end
+
   def my_name
     if true
       "fido"
