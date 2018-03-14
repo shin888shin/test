@@ -12,9 +12,7 @@ describe '#age' do
 
   it "returns 3" do
       d = Dog.new
-
       expect(d.age).to eq 3
-
     end
 
 end
